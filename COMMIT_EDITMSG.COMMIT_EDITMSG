@@ -1,0 +1,16 @@
+test
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/index.html b/index.html
+index 561ed5c..e449a8a 100644
+--- a/index.html
++++ b/index.html
+@@ -1,4 +1,4 @@
+-<!DOCTYPE html>
++<!DOCTYPE html>111
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
